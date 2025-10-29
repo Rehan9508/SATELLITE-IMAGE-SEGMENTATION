@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Training artifacts
+runs/
+outputs/
+checkpoints/
+logs/
+
+# If you don't want to version big binaries at all, uncomment:
+# *.pth
+# *.pt
+# *.onnx
+# *.bin
